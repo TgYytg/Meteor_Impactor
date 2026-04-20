@@ -1,0 +1,4 @@
+sys
+math
+requests
+from PyQt6 import QtCore, QtGui, QtWidgets
